@@ -1,15 +1,13 @@
 {
   "files": {
     "main.css": "/YaroslavBoldyshev/goit-react-hw-02-feedback/static/css/main.21b9fad2.css",
-    "main.js": "/YaroslavBoldyshev/goit-react-hw-02-feedback/static/js/main.69d93999.js",
-    "static/js/787.461ae4cb.chunk.js": "/YaroslavBoldyshev/goit-react-hw-02-feedback/static/js/787.461ae4cb.chunk.js",
+    "main.js": "/YaroslavBoldyshev/goit-react-hw-02-feedback/static/js/main.981b37f3.js",
     "index.html": "/YaroslavBoldyshev/goit-react-hw-02-feedback/index.html",
     "main.21b9fad2.css.map": "/YaroslavBoldyshev/goit-react-hw-02-feedback/static/css/main.21b9fad2.css.map",
-    "main.69d93999.js.map": "/YaroslavBoldyshev/goit-react-hw-02-feedback/static/js/main.69d93999.js.map",
-    "787.461ae4cb.chunk.js.map": "/YaroslavBoldyshev/goit-react-hw-02-feedback/static/js/787.461ae4cb.chunk.js.map"
+    "main.981b37f3.js.map": "/YaroslavBoldyshev/goit-react-hw-02-feedback/static/js/main.981b37f3.js.map"
   },
   "entrypoints": [
     "static/css/main.21b9fad2.css",
-    "static/js/main.69d93999.js"
+    "static/js/main.981b37f3.js"
   ]
 }
