@@ -1,5 +1,6 @@
 import PropTypes from "prop-types";
 import styled from "styled-components";
+
 export const Statistics = ({
   good,
   neutral,
@@ -17,6 +18,7 @@ export const Statistics = ({
     </StatList>
   );
 };
+
 Statistics.propTypes = {
   good: PropTypes.number,
   neutral: PropTypes.number,
@@ -24,9 +26,11 @@ Statistics.propTypes = {
   total: PropTypes.number,
   positivePercentage: PropTypes.number,
 };
+
 const StatList = styled.ul`
   padding-left: 20px;
 `;
+
 const StatItem = styled.li`
   font-size: 20px;
   font-weight: 500;

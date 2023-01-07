@@ -1,5 +1,6 @@
 import styled from "styled-components";
 import PropTypes from "prop-types";
+
 export const Section = ({ title, children }) => {
   return (
     <FeedBackSection>
@@ -8,11 +9,13 @@ export const Section = ({ title, children }) => {
     </FeedBackSection>
   );
 };
+
 Section.propTypes = {
   title: PropTypes.string,
   children: PropTypes.array,
 };
-const FeedBackSection = styled.div`
+
+const FeedBackSection = styled.section`
   width: 400px;
   margin: 0 auto;
   display flex;
@@ -20,6 +23,7 @@ const FeedBackSection = styled.div`
   gap: 20px;
   margin-top: 20px;
 `;
+
 const Title = styled.h1`
   font-size: 35px;
 `;
